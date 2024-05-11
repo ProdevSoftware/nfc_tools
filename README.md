@@ -1,16 +1,12 @@
-# demo_nfc
+# NFC Tools in Flutter
 
-A new Flutter project.
+This Flutter project provides a set of NFC tools for interacting with NFC tags and devices. With this application, users can read, write, and interact with NFC tags using their mobile device.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Read NFC Tags**: Easily read data from NFC tags by simply tapping the device against them.
+- **Write to NFC Tags**: Write data to NFC tags for various purposes such as storing information.
 
-A few resources to get you started if this is your first Flutter project:
+## Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/ProdevSoftware/nfc_tools/assets/97152083/d19a5f54-a705-4ce7-a63a-df9126864e6f
